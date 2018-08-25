@@ -1,0 +1,1 @@
+cmd_/home/ezio/os-keshe/3/arafatsDrive.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/ezio/os-keshe/3/arafatsDrive.ko /home/ezio/os-keshe/3/arafatsDrive.o /home/ezio/os-keshe/3/arafatsDrive.mod.o ;  true
